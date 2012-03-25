@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* QuizAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 546}}";
+			sepNavSelRange = "{75, 0}";
+			sepNavVisRange = "{0, 586}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QuizAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 1248}}";
+			sepNavSelRange = "{745, 0}";
+			sepNavVisRange = "{0, 990}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Quiz */ = {
+		activeExec = 0;
+		executables = (
+			93AB9937125AD2B0002E7AF9 /* Quiz */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 93AB9937125AD2B0002E7AF9 /* Quiz */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Quiz */;
+		codeSenseManager = 93AB9942125AD2CE002E7AF9 /* Code sense */;
+		executables = (
+			93AB9937125AD2B0002E7AF9 /* Quiz */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307942064;
+			PBXWorkspaceStateSaveDate = 307942064;
+		};
+		perUserProjectItems = {
+			93AB994A125ADBB1002E7AF9 /* PBXTextBookmark */ = 93AB994A125ADBB1002E7AF9 /* PBXTextBookmark */;
+			93AB994B125ADBB1002E7AF9 /* PBXTextBookmark */ = 93AB994B125ADBB1002E7AF9 /* PBXTextBookmark */;
+			93AB994C125ADBB1002E7AF9 /* PBXTextBookmark */ = 93AB994C125ADBB1002E7AF9 /* PBXTextBookmark */;
+			93AB994D125ADBB1002E7AF9 /* PBXTextBookmark */ = 93AB994D125ADBB1002E7AF9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 93AB9941125AD2CE002E7AF9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Quiz_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 677}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 177}";
+		};
+	};
+	93AB9937125AD2B0002E7AF9 /* Quiz */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Quiz;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	93AB9941125AD2CE002E7AF9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	93AB9942125AD2CE002E7AF9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	93AB994A125ADBB1002E7AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Quiz_Prefix.pch */;
+		name = "Quiz_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 177;
+		vrLoc = 0;
+	};
+	93AB994B125ADBB1002E7AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QuizAppDelegate.h */;
+		name = "QuizAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 75;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 0;
+	};
+	93AB994C125ADBB1002E7AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuizAppDelegate.m */;
+		name = "QuizAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 0;
+	};
+	93AB994D125ADBB1002E7AF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuizAppDelegate.m */;
+		name = "QuizAppDelegate.m: 31";
+		rLen = 0;
+		rLoc = 745;
+		rType = 0;
+		vrLen = 990;
+		vrLoc = 0;
+	};
+}

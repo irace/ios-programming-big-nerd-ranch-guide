@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NayshunzAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 662}}";
+			sepNavSelRange = "{690, 0}";
+			sepNavVisRange = "{0, 699}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NayshunzAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 2925}}";
+			sepNavSelRange = "{6408, 0}";
+			sepNavVisRange = "{4858, 1823}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Nayshunz */ = {
+		activeExec = 0;
+		executables = (
+			9314626312D41A8300997A4A /* Nayshunz */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9314626312D41A8300997A4A /* Nayshunz */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Nayshunz */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Nayshunz */,
+		);
+		codeSenseManager = 9314626812D41AA100997A4A /* Code sense */;
+		executables = (
+			9314626312D41A8300997A4A /* Nayshunz */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					942,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315890307;
+			PBXWorkspaceStateSaveDate = 315890307;
+		};
+		perUserProjectItems = {
+			931462C912D4231C00997A4A /* PBXTextBookmark */ = 931462C912D4231C00997A4A /* PBXTextBookmark */;
+			931462CA12D4231C00997A4A /* PBXTextBookmark */ = 931462CA12D4231C00997A4A /* PBXTextBookmark */;
+			9314632512D4294C00997A4A /* PBXTextBookmark */ = 9314632512D4294C00997A4A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9314626712D41AA100997A4A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9314626312D41A8300997A4A /* Nayshunz */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Nayshunz;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9314626712D41AA100997A4A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9314626812D41AA100997A4A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	931462C912D4231C00997A4A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NayshunzAppDelegate.h */;
+		name = "NayshunzAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 690;
+		rType = 0;
+		vrLen = 699;
+		vrLoc = 0;
+	};
+	931462CA12D4231C00997A4A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NayshunzAppDelegate.m */;
+		name = "NayshunzAppDelegate.m: 40";
+		rLen = 406;
+		rLoc = 1011;
+		rType = 0;
+		vrLen = 1953;
+		vrLoc = 492;
+	};
+	9314632512D4294C00997A4A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NayshunzAppDelegate.m */;
+		name = "NayshunzAppDelegate.m: 181";
+		rLen = 0;
+		rLoc = 6408;
+		rType = 0;
+		vrLen = 1823;
+		vrLoc = 4858;
+	};
+}

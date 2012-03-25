@@ -1,0 +1,238 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* HypnosisterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 654}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{0, 403}";
+		};
+	};
+	1D3623250D0F684500981E51 /* HypnosisterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1047, 936}}";
+			sepNavSelRange = "{933, 0}";
+			sepNavVisRange = "{255, 1189}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Hypnosister */ = {
+		activeExec = 0;
+		executables = (
+			9367EB6D126E80CD00BC5A79 /* Hypnosister */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9367EB6D126E80CD00BC5A79 /* Hypnosister */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Hypnosister */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Hypnosister */,
+		);
+		codeSenseManager = 9367EB80126E80EE00BC5A79 /* Code sense */;
+		executables = (
+			9367EB6D126E80CD00BC5A79 /* Hypnosister */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1361,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					869,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					1449,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1433,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 311123230;
+			PBXWorkspaceStateSaveDate = 311123230;
+		};
+		perUserProjectItems = {
+			9348A5EE128B5D5600C94F0F /* PBXTextBookmark */ = 9348A5EE128B5D5600C94F0F /* PBXTextBookmark */;
+			935C7D4B126E8FFF000FDA2A /* PBXTextBookmark */ = 935C7D4B126E8FFF000FDA2A /* PBXTextBookmark */;
+			93900688126FD0BB0021578F /* PBXTextBookmark */ = 93900688126FD0BB0021578F /* PBXTextBookmark */;
+			939006B0126FD5D30021578F /* PBXTextBookmark */ = 939006B0126FD5D30021578F /* PBXTextBookmark */;
+			939006B2126FD5D30021578F /* PBXTextBookmark */ = 939006B2126FD5D30021578F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9367EB7F126E80EE00BC5A79 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9348A5EE128B5D5600C94F0F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HypnosisterAppDelegate.m */;
+		name = "HypnosisterAppDelegate.m: 33";
+		rLen = 0;
+		rLoc = 933;
+		rType = 0;
+		vrLen = 1189;
+		vrLoc = 255;
+	};
+	935C7D4B126E8FFF000FDA2A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9367EB82126E80F800BC5A79 /* HypnosisView.m */;
+		name = "HypnosisView.m: 71";
+		rLen = 0;
+		rLoc = 1868;
+		rType = 0;
+		vrLen = 1505;
+		vrLoc = 321;
+	};
+	9367EB6D126E80CD00BC5A79 /* Hypnosister */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Hypnosister;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9367EB7F126E80EE00BC5A79 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9367EB80126E80EE00BC5A79 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9367EB81126E80F800BC5A79 /* HypnosisView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1608, 654}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 214}";
+		};
+	};
+	9367EB82126E80F800BC5A79 /* HypnosisView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 1053}}";
+			sepNavSelRange = "{1868, 0}";
+			sepNavVisRange = "{321, 1505}";
+		};
+	};
+	93900688126FD0BB0021578F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* HypnosisterAppDelegate.h */;
+		name = "HypnosisterAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 403;
+		vrLoc = 0;
+	};
+	939006B0126FD5D30021578F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9367EB81126E80F800BC5A79 /* HypnosisView.h */;
+		name = "HypnosisView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 214;
+		vrLoc = 0;
+	};
+	939006B2126FD5D30021578F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* HypnosisterAppDelegate.m */;
+		name = "HypnosisterAppDelegate.m: 33";
+		rLen = 0;
+		rLoc = 933;
+		rType = 0;
+		vrLen = 1441;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'Homepwner' target in the 'Homepwner' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "FileHelpers.h"
+#endif
